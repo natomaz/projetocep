@@ -1,0 +1,16 @@
+===Base de Dados bdcadastro
+
+== Estrutura da tabela tbcrud
+
+|------
+|Coluna|Tipo|Nulo|Predefinido
+|------
+|//**id**//|int(11)|Não|
+|nome|varchar(50)|Não|
+|sexo|varchar(50)|Não|
+|datanasc|date|Não|
+|email|varchar(50)|Não|
+|celular|int(20)|Não|
+|cep|int(20)|Não|
+== Extraindo dados da tabela tbcrud
+
